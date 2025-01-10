@@ -1,0 +1,53 @@
+Research VScode format
+
+
+3 Models
+1) Model created from scratch
+2) ResNet Model Using Transfer Learning
+3) MobileNet Model Using Transfer Learning
+
+2 Types of Diseases in Plants
+1. Biotic
+2. Abiotic
+
+Steps involved in Plant Disease Detection and Classification
+
+1. Acquisition of Plant
+PLantVillage Dataset --> Currently just implemented
+OSF
+IPMImages
+IRRI
+APS Images
+UCI
+
+2. Pre-processing of images
+Noise Removal
+Background Removal
+Color Space transformation --> Learn
+Image Resizing
+
+3. Segmentation of Images
+Regions Growing Segmentation
+K means CLustering
+Otsu Threshold Algorithm
+Compression Based Techniques
+
+4.Extraction os Userful Features from Images
+SURF Feature
+HOG Feature
+SIFT Feature
+PHOW Feature
+Color
+Texture
+Shape
+
+5.Classification of Diseases
+SVM (Support Vector machines)
+Genetic Algorithm (GA)
+K-Nearest Negihbours (K-NN)
+Artificial Neural Network (ANN)
+DEcision Tree
+Convolutional Neural Network (CNN)
+
+
+Plot as many graphs and statistics as much as possible
